@@ -128,40 +128,25 @@ This list is edited by [PaopaoRobot, 泡泡机器人](https://github.com/PaoPaoR
 
 ## Awards I: Service Robots; Medical Robotics
 - Online Trajectory Planning through Combined Trajectory Optimization and Function Approximation: Application to the Exoskeleton Atalante
-- Human-Centric Active Perception for Autonomous Observation
 - Active Reward Learning for Co-Robotic Vision Based Exploration in Bandwidth Limited Environments
-- Fault Tolerant Control in Shape-Changing Internal Robots
-- Swing-Assist for Enhancing Stair Ambulation in a Primarily-Passive Knee Prosthesis
 - A Multilayer-Multimodal Fusion Architecture for Pattern Recognition of Natural Manipulations in Percutaneous Coronary Interventions
 
 ## Awards II: Robot Mechanisms and Design; Automation
-- Design of a Roller-Based Dexterous Hand for Object Grasping and Within-Hand Manipulation
-- Swing-Assist for Enhancing Stair Ambulation in a Primarily-Passive Knee Prosthesis
-- Asynchronous and Decoupled Control of the Position and the Stiffness of a Spatial RCM Tensegrity Mechanism for Needle Manipulation
 - Form2Fit: Learning Shape Priors for Generalizable Assembly from Disassembly
 - Deep Visual Heuristics: Learning Feasibility of Mixed-Integer Programs for Manipulation Planning
 - Securing Industrial Operators with Collaborative Robots: Simulation and Experimental Validation for a Carpentry Task
 
 ## Awards III: Human-Robot Interaction (HRI); Multi-Robot Systems
-- Preference-Based Learning for Exoskeleton Gait Optimization
-- Perception-Action Coupling in Usage of Telepresence Cameras
-- Human Interface for Teleoperated Object Manipulation with a Soft Growing Robot
-- Efficient Large-Scale Multi-Drone Delivery Using Transit Networks
 - Efficient Multi-Agent Trajectory Planning with Feasibility Guarantee Using Relative Bernstein Polynomial
 - Scalable Target-Tracking for Autonomous Vehicle Fleets
 
 ## Awards IV: Unmanned Aerial Vehicles; Robot Vision
-- Design and Autonomous Stabilization of a Ballistically Launched Multirotor
-- A Morphable Aerial-Aquatic Quadrotor with Coupled Symmetric Thrust Vectoring
-- Nonlinear Vector-Projection Control for Agile Fixed-Wing Unmanned Aerial Vehicles
 - OmniSLAM: Omnidirectional Localization and Dense Mapping for Wide-Baseline Multi-Camera Systems
 - Metrically-Scaled Monocular SLAM Using Learned Scale Factors
-- Graduated Non-Convexity for Robust Spatial Perception: From Non-Minimal Solvers to Global Outlier Rejection
 
 ## Awards V: Robot Manipulation; Cognitive Robotics
 - 6-DOF Grasping for Target-Driven Object Manipulation in Clutter
 - Tactile Dexterity: Manipulation Primitives with Tactile Feedback
-- Design of a Roller-Based Dexterous Hand for Object Grasping and Within-Hand Manipulation
 - Semantic Linking Maps for Active Visual Object Search
 - Adversarial Skill Networks: Unsupervised Robot Skill Learning from Video
 - Transient Behavior and Predictability in Manipulating Complex Objects
@@ -182,7 +167,6 @@ This list is edited by [PaopaoRobot, 泡泡机器人](https://github.com/PaoPaoR
 - Active SLAM Using 3D Submap Saliency for Underwater Volumetric Exploration
 - Are We Ready for Service Robots? the OpenLORIS-Scene Datasets for Lifelong SLAM
 - Intensity Scan Context: Coding Intensity and Geometry Relations for Loop Closure Detection
-- TextSLAM: Visual SLAM with Planar Text Features
 - FlowNorm: A Learning-Based Method for Increasing Convergence Range of Direct Alignment
 - Redesigning SLAM for Arbitrary Multi-Camera Systems
 - Dynamic SLAM: The Need for Speed
@@ -225,20 +209,11 @@ This list is edited by [PaopaoRobot, 泡泡机器人](https://github.com/PaoPaoR
 ## Deep Learning in Robotics and Automation 
 - Learning 3D-Aware Egocentric Spatial-Temporal Interaction Via Graph Convolutional Networks
 - C-3PO: Cyclic-Three-Phase Optimization for Human-Robot Motion Retargeting Based on Reinforcement Learning
-- AP-MTL: Attention Pruned Multi-Task Learning Model for Real-Time Instrument Detection and Segmentation in Robot-Assisted Surgery
-- Automatic Gesture Recognition in Robot-Assisted Surgery with Reinforcement Learning and Tree Search
-- Towards Privacy-Preserving Ego-Motion Estimation Using an Extremely Low-Resolution Camera
-- ACNN: A Full Resolution DCNN for Medical Image Segmentation
 - RoNIN: Robust Neural Inertial Navigation in the Wild: Benchmark, Evaluations, &amp; New Methods
 - Segmenting 2K-Videos at 36.5 FPS with 24.3 GFLOPs: Accurate and Lightweight Realtime Semantic Segmentation Network
-- Temporally Consistent Horizon Lines
-- Full-Scale Continuous Synthetic Sonar Data Generation with Markov Conditional Generative Adversarial Networks
-- Real-Time Soft Body 3D Proprioception Via Deep Vision-Based Sensing
 - A General Framework for Uncertainty Estimation in Deep Learning
-- Learning Local Behavioral Sequences to Better Infer Non-Local Properties in Real Multi-Robot Systems
-- Unsupervised Geometry-Aware Deep LiDAR Odometry
 - SA-Net: Robust State-Action Recognition for Learning from Observations
-- A Generative Approach for Socially Compliant Navigation
+- **A Generative Approach for Socially Compliant Navigation
 - Scalable Multi-Task Imitation Learning with Autonomous Improvement
 - Motion2Vec: Semi-Supervised Representation Learning from Surgical Videos
 - PointAtrousGraph: Deep Hierarchical Encoder-Decoder with Point Atrous Convolution for Unorganized 3D Points
