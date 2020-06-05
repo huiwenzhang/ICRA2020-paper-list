@@ -213,7 +213,7 @@ This list is edited by [PaopaoRobot, 泡泡机器人](https://github.com/PaoPaoR
 - Segmenting 2K-Videos at 36.5 FPS with 24.3 GFLOPs: Accurate and Lightweight Realtime Semantic Segmentation Network
 - A General Framework for Uncertainty Estimation in Deep Learning
 - SA-Net: Robust State-Action Recognition for Learning from Observations
-- **A Generative Approach for Socially Compliant Navigation
+- **A Generative Approach for Socially Compliant Navigation**
 - Scalable Multi-Task Imitation Learning with Autonomous Improvement
 - Motion2Vec: Semi-Supervised Representation Learning from Surgical Videos
 - PointAtrousGraph: Deep Hierarchical Encoder-Decoder with Point Atrous Convolution for Unorganized 3D Points
